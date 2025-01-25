@@ -154,12 +154,6 @@ discord-oauth-nextjs/
 
 ---
 
-## **License**
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
 ## **Acknowledgements**
 
 - [Next.js Documentation](https://nextjs.org/docs)
