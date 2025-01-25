@@ -24,9 +24,6 @@ A Next.js application integrated with Discord OAuth for user authentication, rol
 5. **Secure Token Management**:
    - Access and refresh tokens are securely stored and refreshed when expired.
 
-6. **Responsive UI**:
-   - Simple and clean user interface for login, admin, and mod pages.
-
 ---
 
 ## **Technologies Used**
